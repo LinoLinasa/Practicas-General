@@ -1,7 +1,7 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\k1000\\desktop\\uni - algoritmos\\practivas general\\practicas poo\\source.cpp",
+        "Source": "c:\\users\\k1000\\desktop\\uni - algoritmos\\practivas general\\practicas poo\\practicas general\\source.cpp",
         "ProvidedModule": "",
         "Includes": [
             "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\iostream",
@@ -113,14 +113,14 @@
             "c:\\program files (x86)\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\conio.h",
             "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\vector",
             "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\__msvc_bit_utils.hpp",
-            "c:\\users\\k1000\\desktop\\uni - algoritmos\\practivas general\\practicas poo\\inclinacion politica.h",
-            "c:\\users\\k1000\\desktop\\uni - algoritmos\\practivas general\\practicas poo\\postura.h",
+            "c:\\users\\k1000\\desktop\\uni - algoritmos\\practivas general\\practicas poo\\practicas general\\inclinacion politica.h",
+            "c:\\users\\k1000\\desktop\\uni - algoritmos\\practivas general\\practicas poo\\practicas general\\postura.h",
             "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\string",
-            "c:\\users\\k1000\\desktop\\uni - algoritmos\\practivas general\\practicas poo\\dc.h",
-            "c:\\users\\k1000\\desktop\\uni - algoritmos\\practivas general\\practicas poo\\dl.h",
-            "c:\\users\\k1000\\desktop\\uni - algoritmos\\practivas general\\practicas poo\\ic.h",
-            "c:\\users\\k1000\\desktop\\uni - algoritmos\\practivas general\\practicas poo\\il.h",
-            "c:\\users\\k1000\\desktop\\uni - algoritmos\\practivas general\\practicas poo\\c.h"
+            "c:\\users\\k1000\\desktop\\uni - algoritmos\\practivas general\\practicas poo\\practicas general\\dc.h",
+            "c:\\users\\k1000\\desktop\\uni - algoritmos\\practivas general\\practicas poo\\practicas general\\dl.h",
+            "c:\\users\\k1000\\desktop\\uni - algoritmos\\practivas general\\practicas poo\\practicas general\\ic.h",
+            "c:\\users\\k1000\\desktop\\uni - algoritmos\\practivas general\\practicas poo\\practicas general\\il.h",
+            "c:\\users\\k1000\\desktop\\uni - algoritmos\\practivas general\\practicas poo\\practicas general\\c.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
