@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Practicas Poo\\x64\\Debug\\Inclinacion politica.obj",
+            "outputs": [
+                "Practicas Poo\\x64\\Debug\\Inclinacion politica.h.obj.dt.module.json",
+                "Practicas Poo\\x64\\Debug\\Inclinacion politica.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\k1000\Desktop\Uni - Algoritmos\Practivas General\Practicas Poo\Inclinacion politica.h(114,7): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  (compilando archivo de origen "Source.cpp")
+  
+C:\Users\k1000\Desktop\Uni - Algoritmos\Practivas General\Practicas Poo\Source.cpp(28,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Source.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Practicas Poo.vcxproj -> C:\Users\k1000\Desktop\Uni - Algoritmos\Practivas General\Practicas Poo\x64\Debug\Practicas Poo.exe
