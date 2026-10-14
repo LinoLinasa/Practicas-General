@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Practicas Poo\\x64\\Debug\\main.obj",
+            "outputs": [
+                "Practicas Poo\\x64\\Debug\\main.cpp.obj.dt.module.json",
+                "Practicas Poo\\x64\\Debug\\main.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

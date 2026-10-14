@@ -1,7 +1,7 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\k1000\\desktop\\uni - algoritmos\\practivas general\\practicas poo\\il.h",
+        "Source": "c:\\users\\k1000\\desktop\\uni - algoritmos\\practivas general\\practicas poo\\practicas general\\il.h",
         "ProvidedModule": "",
         "Includes": [
             "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\iostream",
@@ -113,7 +113,7 @@
             "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\string",
             "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\vector",
             "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\__msvc_bit_utils.hpp",
-            "c:\\users\\k1000\\desktop\\uni - algoritmos\\practivas general\\practicas poo\\postura.h"
+            "c:\\users\\k1000\\desktop\\uni - algoritmos\\practivas general\\practicas poo\\practicas general\\postura.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

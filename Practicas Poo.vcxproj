@@ -123,16 +123,23 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Source.cpp" />
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="c.h" />
+    <ClInclude Include="clasecontroladora.h" />
     <ClInclude Include="dc.h" />
     <ClInclude Include="dl.h" />
+    <ClInclude Include="source2.h" />
+    <ClInclude Include="KANAKA.h" />
+    <ClInclude Include="UTAZU.h" />
+    <ClInclude Include="viajero.h" />
+    <ClInclude Include="source.h" />
     <ClInclude Include="ic.h" />
     <ClInclude Include="il.h" />
     <ClInclude Include="postura.h" />
     <ClInclude Include="Inclinacion politica.h" />
+    <ClInclude Include="VIATGER .h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

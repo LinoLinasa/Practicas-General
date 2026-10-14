@@ -16,6 +16,9 @@
     <Filter Include="Archivos de encabezado\ej. Postura">
       <UniqueIdentifier>{1c8e3d9b-3f38-45ac-ac60-e57b5e0d6248}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Archivos de encabezado\ej. 2 Maquina del tiempo">
+      <UniqueIdentifier>{cf5dd755-a18a-4df1-9783-94597c14d1de}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="c.h">
@@ -39,10 +42,31 @@
     <ClInclude Include="postura.h">
       <Filter>Archivos de encabezado\ej. Postura</Filter>
     </ClInclude>
+    <ClInclude Include="source.h">
+      <Filter>Archivos de encabezado\ej. Postura</Filter>
+    </ClInclude>
+    <ClInclude Include="source2.h">
+      <Filter>Archivos de encabezado\ej. 2 Maquina del tiempo</Filter>
+    </ClInclude>
+    <ClInclude Include="viajero.h">
+      <Filter>Archivos de encabezado\ej. 2 Maquina del tiempo</Filter>
+    </ClInclude>
+    <ClInclude Include="VIATGER .h">
+      <Filter>Archivos de encabezado\ej. 2 Maquina del tiempo</Filter>
+    </ClInclude>
+    <ClInclude Include="KANAKA.h">
+      <Filter>Archivos de encabezado\ej. 2 Maquina del tiempo</Filter>
+    </ClInclude>
+    <ClInclude Include="UTAZU.h">
+      <Filter>Archivos de encabezado\ej. 2 Maquina del tiempo</Filter>
+    </ClInclude>
+    <ClInclude Include="clasecontroladora.h">
+      <Filter>Archivos de encabezado\ej. 2 Maquina del tiempo</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Source.cpp">
-      <Filter>Archivos de encabezado\ej. Postura</Filter>
+    <ClCompile Include="main.cpp">
+      <Filter>Archivos de recursos</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
